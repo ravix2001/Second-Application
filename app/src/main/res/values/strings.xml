@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SecondApplication</string>
+    <string name="splash">This is a splash screen which is shown when we start the application and not returned to that screen while going back.</string>
+    <string name="title">Ravi Pandit</string>
+    <string name="translate">Translate</string>
+    <string name="rotate">Rotate</string>
+    <string name="scale">Scale</string>
+    <string name="alpha">Alpha</string>
+
+</resources>
